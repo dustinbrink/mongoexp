@@ -1,0 +1,30 @@
+{
+  "name": "mongoexp",
+  "version": "1.0.0",
+  "description": "mongo experiments",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.8.1"
+  },
+  "devDependencies": {
+    "mongoose": "^4.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinbrink/mongoexp.git"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "experiment"
+  ],
+  "author": "Dustin Brink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinbrink/mongoexp/issues"
+  },
+  "homepage": "https://github.com/dustinbrink/mongoexp#readme"
+}
